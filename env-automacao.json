@@ -1,0 +1,153 @@
+{
+	"id": "009ecd14-b358-407a-8238-3b43bc866daa",
+	"name": "Ambiente de teste",
+	"values": [
+		{
+			"key": "FullName",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "EmailCompany",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "Password",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "CPFUser",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "FirstName",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "LastName",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "Domain",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "TokenUser",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "IDUser",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "CorporateName",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "RazaoSocial",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "CNPJ",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "Telefone",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "CEP",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "Rua",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "Bairro",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "NumeroCasa",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "ComplementoEndereco",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "IDCompany",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "Service",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "Email",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "IdDiretory",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "IDCostCenter",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "Departamento",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2024-02-06T13:19:36.493Z",
+	"_postman_exported_using": "Postman/10.22.10"
+}

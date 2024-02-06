@@ -1,0 +1,33 @@
+{
+	"id": "22d38b1e-9d26-4a17-8025-89580c0f3924",
+	"values": [
+		{
+			"key": "URL",
+			"value": "https://quality-eagles.qacoders-academy.com.br/api/",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "MailAdmin",
+			"value": "sysadmin@qacoders.com",
+			"type": "secret",
+			"enabled": true
+		},
+		{
+			"key": "PasswordAdmin",
+			"value": "1234@Test",
+			"type": "secret",
+			"enabled": true
+		},
+		{
+			"key": "Token",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"name": "Globals",
+	"_postman_variable_scope": "globals",
+	"_postman_exported_at": "2024-02-06T13:25:39.888Z",
+	"_postman_exported_using": "Postman/10.22.10"
+}
